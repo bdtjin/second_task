@@ -60,3 +60,7 @@
 
 - **힌트**
 `dart:io` 라이브러리의 `writeAsStringSync()` 을 이용하여 파일을 저장할 수 있다
+
+-----
+필요한 클래스
+Score
